@@ -1,7 +1,7 @@
 #### Plot 4 ####
 png(file="./plot4.png")
 
-par(mfrow = c(2, 2), mar = c(6, 5, 1.25, 1.25), bg = "transparent")
+par(mfrow = c(2, 2), bg = "transparent")
 
 plot(newtime, data$Global_active_power, type = "l", xlab = "", 
      ylab = "Global Active Power (kilowatts)", )
