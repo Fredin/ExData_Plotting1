@@ -1,5 +1,7 @@
 #### Plot 3 ####
 
+# To run this code correctly you must first run cleaningCodeProject.R
+
 png(file="./plot3.png")
 
 par(bg = "transparent")
