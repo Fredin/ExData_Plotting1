@@ -1,4 +1,7 @@
 #### Plot 4 ####
+
+# To run this code correctly you must first run cleaningCodeProject.R
+
 png(file="./plot4.png")
 
 par(mfrow = c(2, 2), bg = "transparent")
