@@ -1,4 +1,7 @@
 #### Plot 1 ####
+
+# To graph this plot you must run cleaningCodeProject.R first
+
 png(file="./plot1.png")
 
 par(bg = "transparent")
